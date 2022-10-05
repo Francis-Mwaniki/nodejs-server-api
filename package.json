@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Backend api",
   "main": "index.js",
+  "engines": {
+    "node": "16.17.1",
+    "npm": "8.19.2"
+  },
   "scripts": {
     "nodemon": "nodemon node_modules/index"
   },
